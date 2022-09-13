@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453057431938",
+    "project_id": "finder-bcaa9",
+    "storage_bucket": "finder-bcaa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453057431938:android:0f557322785d94a4a5679b",
+        "android_client_info": {
+          "package_name": "cap.finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453057431938-6kjqjmm2r9fop5qfg1begt89sql9135g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6bN5GCh0LrbkbymeQA96ZyXD6jgQwVlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453057431938-6kjqjmm2r9fop5qfg1begt89sql9135g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
